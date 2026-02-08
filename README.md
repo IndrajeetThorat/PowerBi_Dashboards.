@@ -1,2 +1,12 @@
-# PowerBi_Dashboards.
-Power BI Dashboard showcasing interactive data visualizations, KPIs, and business insights using real-world data. Designed for data analysis and decision-making.
+## Power BI Dashboard
+
+This repository contains a Power BI dashboard created for data analysis and visualization.
+
+### Features
+- Interactive filters
+- KPI tracking
+- Business insights
+
+### How to use
+1. Download the `.pbix` file
+2. Open it in Power BI Desktop
